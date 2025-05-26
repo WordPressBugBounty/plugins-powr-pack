@@ -1,7 +1,7 @@
-===Contact Form - Custom Builder, Payment Form, and More===
+=== Custom Form Builder, Contact Forms, Payment Forms, Surveys, Polls ===
 Contributors: powr
 Donate link: https://www.powr.io/
-Tags: form, contact form, instagram feed, popup, countdown timer
+Tags: contact form, custom form, payment form, wordpress form, form builder
 Description: How about: 60 free plugins to collect more contacts and convert your visitors. Get started with Form Builder, Popup, Social Feed and Countdown Timer. Add the plugin to any page, post or theme. Edit live on your page with the Edit button above your plugin. More plugins and tutorials available at POWR.io.
 Requires at least: 3.0
 Tested up to: 6.7
@@ -13,60 +13,106 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 The best 60 plugins for WP. Easy contact form plugin, social feed, popup, countdown, and more.
 
 == Description ==
-**THE BEST CONTACT FORM PLUGIN, INSTAGRAM FEED PLUGIN, POP UP AND COUNTDOWN TIMER PLUGIN FOR WORDPRESS**
-<br>
-<br>
-POWR is the leading all-in-one suite of 60 plugins for WordPress to help grow your business online. Whether you’re blogging or selling, POWR plugins are designed to help you collect more contacts and boost conversions.
-<br>
-<br>
-Get started free with POWR’s form builder, contact form, popup, social media feed, countdown timer, photo gallery, image and video slider, and more. Get POWR up and running on your WordPress site in minutes with code-free installation.
-= WHY POWR IS DIFFERENT =
-* No code or developer required.
-* Access to 60 plugins for FREE with one WordPress installation, one login and one editor.
-* Integration with Guternberg Editor.
-* Scales with your business – upgrade each plugin individually, or get unlimited access to everything!
-* Fully customizable – choose your own fonts, colors, styles, sizing and more.
-* Compatible with all WordPress themes, Elementor themes, and WooCommerce.
-* Free support.
-<br>
-**POWR plugins are trusted on over 12 million websites worldwide. Are you ready to join them?**
-<br>
+
+**The easy way to build high-quality custom form plugins on WordPress in minutes, not hours with Form Builder by POWR**
+
+The all-in-one form building solution for WordPress - POWR Form Builder is the ultimate tool for WordPress site owners who want to streamline customer interactions and boost conversions. Whether you need a simple contact form, order request form, multi-step form, or a payment-enabled inquiry form, POWR has you covered.
+
+Build custom forms easily—collect emails, accept payments via PayPal and Stripe, gather feedback, and even create interactive surveys or service request forms to keep your customers engaged.
+
+It’s the smart, hassle-free way to connect with your customers!
+
+POWR’s patented live editor makes it simple to customize forms, match your brand, and embed them anywhere on your WordPress site—no coding required. Capture leads, automate responses, and drive more sales with a seamless form experience.
+
+Upgrade to unlock advanced features like conditional logic, file uploads, multi-step forms, integrations with email marketing platforms, and more.
+
+### 💫 POWR Form Builder Key Features
+* Absolutely zero coding or programming required
+* Choose from 20+ different form field elements including embedding other POWR apps
+* Start with a professionally-designed template, generate with AI or fully customize from scratch
+* Accept payments via Stripe and PayPal for one-time or recurring subscriptions, donations, and more
+* Compatible with all WordPress themes, Elementor themes, and WooCommerce
+* Integrates with the Gutenberg Editor
+* 24/7 email support and live chat on weekdays
+* Unlimited access to 60+ plugins like contact form, popup, countdown timer, image slider, and more for one [deeply discounted price](https://www.powr.io/business). Over $900/yr in savings!
+
+**2+ million POWR form users worldwide can't be wrong!**
+
+[youtube https://youtu.be/ViFDg2Vd5dw]
 
 
-= 60 POWERFUL PLUGINS FOR TO GROW YOUR BUSINESS ONLINE =
-**With a complete library at your fingertips, here are WordPress users’ favorites:**
-<br>
-**Form Builder** - Easy, professional forms. Create an email sign up form, newsletter form, contact form, quote form, payment form, survey, poll, order form, return form, or any other custom form. Get started with easy-to-use templates and automate your workflow with PayPal, Stripe, Mailchimp, Google Sheets and Zapier integrations.
-<br>
-**Social Feed** - Boost engagement on your site and increase brand awareness with a live gallery of photos and videos from all your social media accounts. Create your feed by connecting to Instagram, Twitter, Facebook, Pinterest, Vimeo, YouTube, an RSS feed (and more!).
-<br>
-**Countdown Timer** - Get more sales or sign ups by creating a sense of urgency a Countdown Timer for WordPress. Count down to an event or create a countdown per visitor to show them how long they have to use a promotion. You can even count up to show how many others have purchased an item, and more!
-<br>
-**Popup** - Increase conversions with a pop up sign up form, or create a special promotion popup with a coupon code and keep visitors on your site with an exit intent popup. Integrates with Mailchimp and Zapier to make managing contacts a breeze.
-<br>
-**PayPal Button** - Collect payments quickly and securely on your WordPress site. Take one-time payments, set up subscriptions or collect donations. Customize the button text, get email notifications every time someone makes a payment, and design your own autoresponder email for successful payments.
-<br>
-**Image Slider** - Increase visitor trust with a slideshow of photos, videos or customer testimonials. Add images, videos, events and promotional banners with call-to-action buttons to create a beautiful slideshow for your WordPress site. Choose from different transition styles and automatically repeat slides so your visitors stay engaged and active.
-<br>
-[See the full list](https://www.powr.io/plugins) of all POWR plugins for WordPress.
-<br>
+### 🛠️ All Your Favorite Software Integrations
+- [PayPal](https://help.powr.io/hc/en-us/articles/115002370968-Accept-Payments-Through-Forms-with-PayPal-or-Stripe)
+- [Verified Stripe Partner](https://stripe.com/br/customers/powr) 
+- [Mailchimp](https://mailchimp.com/integrations/powr-form-builder/)
+- [Constant Contact](https://www.airslate.com/integrations/789-create-contacts-in-constant-contact-from-new-powr-form-builder-responses)
+- [Omnisend](https://support.omnisend.com/en/articles/5775792-integration-with-powr)
+- [Notion](https://www.notion.com/integrations/8d7a9711d5e545e1901ac2b9fac18eef)
+- [Google Sheets](https://help.powr.io/hc/en-us/articles/115011622267-Connecting-Google-Sheets-to-Form-Builder)
+- [Google Analytics](https://help.powr.io/hc/en-us/articles/115002720987-Steps-to-Add-a-Google-Analytics-Tracking-Code-to-POWR-Forms)
+- [Zapier](https://zapier.com/apps/powr-form-builder/integrations)
 
-= FAST AND FREE CUSTOMER SUPPORT =
-If you have any questions or need help getting up and running, we’re here to help! POWR offers free support and our awesome support team is available 24 hours a day. You can also visit our [Help Center](https://www.powr.io/knowledge-base) for tips, support, and answers to common questions.
-<br>
-Stay updated on all POWR news and learn more about our plugins on the [blog](https://www.powr.io/blog).
+And hundreds of others
+
+### 📹 Advanced Form Building Tutorials
+[youtube https://youtu.be/NsEqVgcWYRA]
+[youtube https://youtu.be/mosGWde9UoQ]
+
+### 🥇 Popular Forms on WordPress Websites
+**Contact Form** – Standard form for customer inquiries and messages.
+**Order Form** – Collect product or service orders with payment options.
+**Appointment Booking Form** – Let customers schedule meetings or services.
+**Feedback Form** – Gather customer reviews and suggestions.
+**Survey Form** – Conduct market research and collect customer insights.
+**Registration Form** – Sign up attendees for events, webinars, or memberships.
+**Newsletter Signup Form** – Capture emails to grow your mailing list.
+**Quote Request Form** – Allow customers to request price estimates for services.
+**Donation Form** – Accept online donations with payment processing.
+**Job Application Form** – Collect resumes and job applications.
+**Support Ticket Form** – Manage customer service inquiries efficiently.
+**Membership Signup Form** – Onboard new members for exclusive access.
+**Consent & Waiver Form** – Collect digital agreements for liability purposes.
+**Event RSVP Form** – Track attendance and gather event details.
+**Multi-Step Form** – Guide users through a step-by-step submission process.
+**Survey & Poll Form** – Get real-time feedback with voting options.
+**Service Request Form** – Let customers request services or repairs.
+**Testimonial Submission Form** – Collect and showcase customer reviews.
+**E-commerce Pre-order Form** – Capture demand for upcoming products.
+**Wholesale Inquiry Form** – Qualify and onboard B2B customers.
+
+### ✅ Not just great form plugins -- Over 60 No-Code WordPress Plugins Available
+
+With a complete library at your fingertips, here are our WordPress users’ favorites:
+
+[Popup](https://wordpress.org/plugins/powr-popup/): Increase conversions with a pop-up sign-up form, or create a special promotion popup with a coupon code and keep visitors on your site with an exit intent popup. Integrates with Mailchimp and Zapier to make managing contacts a breeze.
+
+[Social Feed](https://wordpress.org/plugins/powr-social-feed/): Boost engagement on your site and increase brand awareness with a live gallery of photos and videos from all your social media accounts. Create your feed by connecting to Instagram, Twitter, Facebook, Pinterest, Vimeo, YouTube, an RSS feed, and more!
+
+Photo + Video Gallery: Easily create and customize image and video galleries for your website, enhancing visual appeal and engagement. Features include responsive design, hover effects, and social sharing to showcase products, portfolios, or events.
+
+[Image Slider](https://wordpress.org/plugins/powr-multi-slider): Increase visitor trust with a slideshow of photos, videos, or customer testimonials. Add images, videos, events, and promotional banners with call-to-action buttons to create a beautiful slideshow for your WordPress site. Choose from different transition styles and automatically repeat slides to keep visitors engaged and active.
+
+PayPal Button: Collect payments quickly and securely on your WordPress site. Accept one-time payments, set up subscriptions, or collect donations. Customize the button text, receive email notifications when a payment is made, and design your autoresponder email to ensure successful payments.
+
+**See the complete list of all [POWR plugins](https://www.powr.io/plugins) for WordPress.**                             
+
+### 📚 Article Library
+The [POWR Blog](https://blog.powr.io/) is a library of over 1,000 articles from more than 300 authors worldwide. Learn more about how to grow your business with topics like: lead generation, digital marketing, website optimization, social media, small business, and customer loyalty.
+
+### 👩🏻‍🔧 FAST AND FREE CUSTOMER SUPPORT
+If you have any questions or need help getting up and running, we’re here to help! POWR offers free support, and our awesome support team is available 24 hours a day. You can also visit our [Help Center](https://help.powr.io/hc/en-us/categories/115000435208-Form-Builder) for tips, support, and answers to common questions.
+
+You can also join the [POWR Community](https://community.powr.io/) for free! Talk directly to the developers, support team, and marketing, or make direct feature requests.
 
 
 == Installation ==
 1. Download, install, and activate POWR.
-<br>
-2. Drop the widget anywhere in your theme.
-<br>
-<br>
-3. Or add to a page/post with the POWR Icon in the WP text editor.
-<br>
-4. Visit your site to view your plugin. Click the 'Edit' icon above your plugin to edit right on your live page.
 
+2. Drop the widget anywhere in your theme.
+
+3. Or add to a page/post with the POWR Icon in the WP text editor.
+
+4. Visit your site to view your plugin. Click the 'Edit' icon above your plugin to edit right on your live page.
 
 
 == Frequently Asked Questions ==
@@ -103,7 +149,7 @@ You can upgrade each plugin individually to benefit from advanced features and t
 
 = What features do I get for free? =
 You can check out all the features available on our [pricing page](https://www.powr.io/pricing). Here are the features for some of the more popular POWR plugins for WordPress:
-<br>
+
 **Form Builder for WordPress**
 Free features:
 • Optional or required text, dropdown, multiple choice, checkbox, and image elements to collect whichever information you need.
@@ -111,7 +157,7 @@ Free features:
 • Get email alerts for every form submission and automatic email confirmations to end-user.
 • Send autoresponder emails to new form respondents.
 • Take payments through your form with PayPal.
-<br>
+
 Advanced features:
 • Remove POWR branding.
 • Mailchimp integration for automated list-growing.
@@ -120,40 +166,40 @@ Advanced features:
 • Conditional logic.
 • Custom after-submission controls: redirect to another page, allow another submission, or hide the form.
 • Submission limits: limit submissions by date/time or by quantity.
-<br>
+
 **Social Feed for WordPress**
 Free features:
 • Connect to one of: Facebook, Instagram, Pinterest, YouTube, Twitter, Tumblr, Flickr, Vimeo, Dailymotion, or RSS.
 • Combine images, videos, and text from all of your social sources in one gallery.
 • Follow one @handles, #hashtags or account.
 • Automatic updates every 24 hours.
-<br>
+
 Advanced features:
 • Remove POWR branding.
 • Enable content moderation and choose which posts to display or hide.
 • Follow more than one social account or hashtag.
 • Update content more frequently (every hour or every 20 minutes).
-<br>
+
 **Countdown Timer for WordPress**
 Free features:
 • Display the remaining days, hours, and minutes of a special deal or sale event.
 • Count down to any future date to build up excitement for an upcoming event, such as an end-of-season sale, new collection launch, and more.
 • Count down to a specific number.
 • Count up from any number or past date, perfect for displaying a fictitious number of users who have purchased an item.
-<br>
+
 Advanced features:
 • Remove POWR branding.
 • Make the Countdown automatically repeat after it has hit the target date or number.
 • Countdown a time **per visitor**, so you can show a time sensitive offer to each new visitor.
 • Countdown from a number **per visitor** to show scarcity (e.g. X left in stock).
 • Count up from a number **per visitor**, to convince them everyone else is taking action!
-<br>
+
 **Popup for WordPress**
 • Free features:
 • Collect email addresses in your personal responses dashboard.
 • Add coupon codes.
 • Select your layout, colors, fonts, add background images, buttons and links.
-<br>
+
 • Advanced features:
 • Remove POWR branding.
 • Mailchimp integration to automatically sync new contacts with your Mailchimp lists.
@@ -167,10 +213,11 @@ You can easily edit your plugins right from your live WordPress site. You’ll s
 
 
 == Screenshots ==
-1. Countdown Timer
-2. Form Builder
-3. Image Slider
-4. PayPal Button
-5. Popup
-6. Social Feed
-7. POWR is used by Millions
+1. Screenshot
+2. Screenshot
+3. Screenshot
+4. Screenshot
+5. Screenshot
+6. Screenshot
+7. Screenshot
+8. Screenshot
